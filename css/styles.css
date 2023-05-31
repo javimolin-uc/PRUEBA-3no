@@ -1527,6 +1527,9 @@ footer.footer .social-link:hover {
     text-decoration: none;
 }
 
+#footer{
+    font-family: 'Raleway', sans-serif;
+    }
 
 @media (max-width:992px) {
     .map {
@@ -4347,12 +4350,6 @@ footer.footer .social-link:hover {
   display: inline-block;
   content: "";
 }
-
 .btn-xl {
   padding: 1.25rem 2.5rem;
-}
-
-#footer{
-    font-family: 'Raleway', sans-serif;
-    }
     
