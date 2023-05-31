@@ -1,0 +1,44 @@
+[
+  {
+    "caption": {
+      "h2": "AutoMarca",
+      "p": "Logo de marca autoreferente junto a su uso."
+    },
+    "imgSrc": "img/por1.png"
+  },
+  {
+    "caption": {
+      "h2": "Wild Gummies",
+      "p": "Producto nuevo junto a marca en base a proteínas."
+    },
+    "imgSrc": "img/por2.png"
+  },
+  {
+    "caption": {
+      "h2": "Sup",
+      "p": "Identidad de marca para antiresaca."
+    },
+    "imgSrc": "img/por3.png"
+  },
+  {
+    "caption": {
+      "h2": "Efelamp",
+      "p": "Lampara de niños industrializable con forma de elefante."
+    },
+    "imgSrc": "img/por4.png"
+  },
+  {
+    "caption": {
+      "h2": "Espécimen Tipográfico",
+      "p": "Afiche que representa la tipografía 'Totally Gothic."
+    },
+    "imgSrc": "img/por5.png"
+  },
+  {
+    "caption": {
+      "h2": "Zuri",
+      "p": "Tacones realizados en base a plásticos desechados."
+    },
+    "imgSrc": "img/por6.png"
+  }
+]
